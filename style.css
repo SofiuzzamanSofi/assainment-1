@@ -45,7 +45,7 @@ body {
 
 .seven {
     text-align: center;
-    font-size: 96px;
+    font-size: 66px;
 }
 
 .eight {
@@ -101,7 +101,7 @@ body {
 
 .forteen {
     text-align: center;
-    font-size: 96px;
+    font-size: 66px;
 }
 
 .fifteen {
@@ -135,4 +135,25 @@ body {
     padding: 70px 30px;
     margin: 10px;
     border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.seventyone {
+    text-align: center;
+    font-size: 66px;
+}
+
+.seventytwo {
+    text-align: center;
+    padding: 0px 300px;
+    font-weight: 700;
 }
