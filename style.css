@@ -2,10 +2,39 @@
     font-family: 'Palanquin Dark', sans-serif;
 }
 
-.two {
-    font-size: xxx-large;
+body {
+    margin: 0;
 }
 
-.o {
-    text
+.one {
+    background-image: url(donate-today/images/donation72.jpg);
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 20px 0px;
+    color: white;
+    margin-bottom: 200px;
+}
+
+.two {
+    font-size: 128px;
+
+}
+
+.three {
+    font-size: 96px;
+}
+
+.four {
+    padding: 0 10%;
+}
+
+.five {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(219, 132, 132), rgba(116, 5, 5, 0.651));
+    font-weight: bold;
+    color: aliceblue;
+    padding: 13px 48px;
+    /* border: 2px solid gray; */
+    border-radius: 10px;
+
 }
