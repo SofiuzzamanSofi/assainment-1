@@ -112,4 +112,27 @@ body {
 
 .sixteen {
     margin-bottom: 200px;
+    display: flex;
+    padding: 28px 136px;
+}
+
+.sixteen1 {
+    background-color: rgb(217, 233, 252);
+    padding: 70px 30px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.sixteen2 {
+    background-color: rgb(252, 215, 215);
+    padding: 70px 30px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.sixteen3 {
+    background-color: rgb(224, 252, 247);
+    padding: 70px 30px;
+    margin: 10px;
+    border-radius: 10px;
 }
