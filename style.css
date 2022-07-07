@@ -177,3 +177,23 @@ body {
     background-color: rgb(248, 82, 82);
     padding: 15px 42px;
 }
+
+footer {
+    background-color: rgb(8, 8, 8);
+    /* color: black; */
+}
+
+.last {
+    text-align: center;
+}
+
+.humble {
+    font-family: 'Shrikhand', cursive;
+    font-size: 48px;
+    color: rgb(248, 82, 82);
+}
+
+.last-para {
+    text-align: center;
+    color: azure;
+}
