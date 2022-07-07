@@ -157,3 +157,23 @@ body {
     padding: 0px 300px;
     font-weight: 700;
 }
+
+.seventythree {
+    border: 100px solid #e9d89a96;
+    background-color: rgb(177, 172, 166);
+    margin: 0% 23%;
+}
+
+.seventythree2 {
+    background-color: ;
+}
+
+.Email {
+    padding-left: 10px;
+    padding-right: 320px;
+}
+
+.Subscribe {
+    background-color: rgb(248, 82, 82);
+    padding: 15px 42px;
+}
